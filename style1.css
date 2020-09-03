@@ -114,10 +114,11 @@
 				color: orange;
 		}
 		.hs1{
-			font-size: 45%;margin-left: 15%;
+			font-size: 45%;
+margin-left: 15%;
 		}
 		.mh1{
-			color: #C0C0C0
+			color: #C0C0C0;
 		}
 		.ms1{
 			 margin-left: 5%
@@ -142,9 +143,7 @@
 				
 				margin-left: 0%
 			}
-			.division1 img{
-				border-radius: 0%
-			}
+			
 			.sl1{
 				flex-direction: column;
 			}
